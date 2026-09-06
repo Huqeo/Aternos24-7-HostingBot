@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "Malrboro.aternos.me:22747",
+    "port": 22747,
     "version": "",
     "try-creative": false
   },
